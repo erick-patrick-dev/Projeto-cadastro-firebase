@@ -1,0 +1,10 @@
+.roxo {
+    height: 100vh;
+    background-color: #8a2be2;
+    color: #fff;
+}
+
+/* Não pode colocar apenas o h1 dentro de um css modularizado */
+.roxo h1 {
+    margin: 0;
+}
