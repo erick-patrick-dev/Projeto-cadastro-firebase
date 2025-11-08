@@ -14,8 +14,10 @@ export default function Inicio() {
       <Navegador texto="JSX"  destino="/jsx" cor="crimson" />
       <Navegador texto="Navegação #01"  destino="/navegacao/" cor="green" />
       <Navegador texto="Navegação #02"  destino="/cliente/sp-6/123" cor="blue" />
-      <Navegador texto="Componente com estado"  destino="/estado" cor="pink" />
-      <Navegador texto="Integração com API #01"  destino="/integracao_1" cor="orange" />
+      <Navegador texto="Componente com estado"  destino="/estado" cor="#a45b71" />
+      <Navegador texto="Integração com API #01"  destino="/integracao_1" cor="#42a9a9" />
+      <Navegador texto="Conteúdo estático"  destino="/estatico" cor="#fa054a" />
+      <Navegador texto="Conteúdo dinâmico"  destino="/dinamico" cor="#aa054f" />
     </div>
   )
 }
