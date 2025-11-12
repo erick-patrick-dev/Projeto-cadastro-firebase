@@ -6,9 +6,9 @@ export default function Home() {
   
   const clientes = [
     new Cliente('Ana', 30, '1'),
-    new Cliente('Caio', 11, '7'),
-    new Cliente('Tereza', 63, '2'),
-    new Cliente('Rosa', 44, '8')
+    new Cliente('Caio', 11, '2'),
+    new Cliente('Tereza', 63, '3'),
+    new Cliente('Rosa', 44, '4')
   ]
 
   return (
