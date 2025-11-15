@@ -3,7 +3,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Este projeto é um laboratório de desenvolvimento focado na construção de um sistema de cadastro robusto, utilizando a sinergia entre o framework **Next.js** (com **TypeScript**) e o **Firebase** (Firestore) como backend e banco de dados NoSQL.
 
@@ -58,7 +58,7 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local.
 
 ```bash
 git clone https://github.com/erick-patrick-dev/Projeto-cadastro-firebase.git
-cd Projeto-cadastro-firebase
+cd next-crud
 ``
 
 O aplicativo estará disponível em `http://localhost:3000`.
